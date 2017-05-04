@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="multidex-1.0.0">
+    <CLASSES>
+      <root url="jar://C:/tmp/chat-sdk-android-master/app/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar!/" />
+      <root url="file://C:/tmp/chat-sdk-android-master/app/intermediates/exploded-aar/com.android.support/multidex/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
